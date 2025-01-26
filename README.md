@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - **Data Narratives** 📊
 
 You are welcome to my portfolio 'Data Narratives', a snip of the work I have developed through my career as a data analyst with a scope in production, manufacturing and quality assurance in the food industry.
 
